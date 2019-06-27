@@ -1,0 +1,6 @@
+owner=399243769586909204
+prefix=4
+game=TYPE 4help
+stayinchannel=true
+songinstatus=false
+token=NTkzNzY1NDk2MjY5MzA3OTA0.XRSpdQ.l6HXk3oS4hrnuEw1hlA4NvyBHk0
